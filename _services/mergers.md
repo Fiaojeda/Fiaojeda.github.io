@@ -1,8 +1,7 @@
 ---
-title: "Mergers"
-date: 2018-11-28T15:15:34+10:00
+title: "Trips & Journeys"
 featured: true
-weight: 4
+weight: 3
 ---
 
 Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum
