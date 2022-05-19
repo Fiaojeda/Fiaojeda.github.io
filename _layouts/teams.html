@@ -17,7 +17,6 @@ bodyClass: "page-teams"
         </div>
     </div>
 </div>
-
 <div class="container pt-6 pb-6">
     <div class="row">
         {% assign promoted_teams = site.team | where: "promoted", true | sort: "weight" %}
@@ -41,6 +40,8 @@ bodyClass: "page-teams"
         </div>
         {% endfor %}
     </div>
+    <h1>Comparisons</h1><br>
+    Let's do one-to-one comparisons to find out differences and similitudes between countries!
     <div class="row pt-6 pb-6">
         {% assign teams = site.team | where: "promoted", empty | sort: "weight" %}
         {% for team in teams %}
