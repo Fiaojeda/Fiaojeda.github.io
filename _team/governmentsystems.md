@@ -3,7 +3,7 @@ title: "Government Systems"
 draft: false
 image: "images/uk/government.png"
 jobtitle: "Presidentialism / Parliamentarism / Federalism"
-# linkedinurl: "https://www.linkedin.com/"
+permalink: /learning-by-teaching/government-systems/
 promoted: true
 weight: 1
 layout: team
@@ -16,10 +16,13 @@ A government system is the whole set of rules and institutions that shape the le
 
 ## Presidentialism: 
 A presidentialist system consists of a president (executive), a judicial branch and a legislative branch. The president is the head of government and is essentially popularly elected to a fixed term. There is executive/legislative deadlock, meaning that there are restrictions as there are divisions of power. Therefore, a greater likelihood exists that the head of government will have limited administrative and party experience. <br>
+<figure>
 <img src='/images/USA/mountrushmore.jpeg' width=300 aligned=left> 
-<img src='/images/USA/whitehouse.jpeg' width=385 aligned=right> <br>
-<br> (George Washington, Thomas Jefferson,____   **(White House of the United States of America) <br>
-Theodore Roosevelt and Abraham Lincoln <br> carved at the Mount Rushmore, US)
+<img src='/images/USA/whitehouse.jpeg' width=385 aligned=right> 
+<figcaption> <p style="font-size:11px;"> George Washington, Thomas Jefferson, Theodore Roosevelt and Abraham Lincoln carved at the Mount Rushmore, US (Left) White House of the United States of America (Right).</p>
+</figcaption>
+</figure>
+
 
 
 ## Parliamentarism: 
@@ -63,4 +66,4 @@ Federal republic
 
 
 If you would like to read more about government systems:
-- Mainwaring, Scott. "Presidentialism, Multipartism, and Democracy: The Difficult Combination". Comparative Political Studies. (1993) 26. <br> (https://heinonline-org.ez.urosario.edu.co/HOL/Page?collection=journals&handle=hein.journals/compls26&id=193&men_tab=srchresults)
+- Mainwaring, Scott. "Presidentialism, Multipartism, and Democracy: The Difficult Combination". Comparative Political Studies. (1993) 26. For more information visit this [link](https://heinonline-org.ez.urosario.edu.co/HOL/Page?collection=journals&handle=hein.journals/compls26&id=193&men_tab=srchresults).

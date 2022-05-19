@@ -3,7 +3,7 @@ title: "Canada vs. UK"
 draft: false
 image: "images/CA/CanadaxUK.jpeg"
 jobtitle: "Political system comparison"
-linkedinurl: "https://www.linkedin.com/"
+permalink: /learning-by-teaching/comparison/canada-uk/
 weight: 3
 ---
 
@@ -14,37 +14,43 @@ weight: 3
 <img src='/images/CA/flagCAA.svg' width=300 aligned=center>
 <img src='/images/uk/ukflagmap.jpeg' width=200 aligned=center>
 
-|                           | Canada   | United Kingdom  |
-| ---------              | -------------------------------|   --------------------------               
-| Government type        | Parliamentary democracy, a federation, and a constitutional monarchy                 | constitutional monarchy and  Commonwealth realm
-| Capital City           | Ottawa                         | London
-| Administrative Divisions| 10 provinces and 3 territories       | 48 ceremonial counties
 
-<img src='/images/CA/canadapoliticalmap.svg' width=250 aligned="center">
-<img src='/images/uk/ukpoliticalmap.jpeg' width=250 aligned="right">
-
-| Executive branch       | Federal Ministry is chosen by the prime minister usually from among the members of his own party sitting in Parliament |  Cabinet of Ministers appointed by the prime minister <br>
-| Head of government     | Former PM: Stephen Harper <br> PM: Justin Trudeau | Former PM: David Cameron <br> PM: Boris Johnson
-
-
-<img src='/images/CA/trudeau.jpeg' width=167 aligned=center>
-<img src='/images/uk/johnson.jpeg' width=150 aligned=center>
-
-| Chief/head of State    | Her Majesty the Queen Elizabeth II | Her Majesty the Queen Elizabeth II
-
-<img src='/images/uk/queen.jpeg' width=200 aligned=center>
-<img src='/images/uk/queen.jpeg' width=200 aligned=right>
-
-| Role of head of state  | ceremonial | ceremonial
-| Executive legitimacy   | Ministry is subject to parliamentary confidence | Ministry is subject to parliamentary confidence 
-| Legislative branch     | Bicameral senate: The monarch, the Senate and House of Commons.  | Bicameral parliament: The Crown, House of Commons, and House of Lords
-| Party system           | Multi- party system | Multi- party system
-
-<img src='/images/CA/politicalcompass.jpeg' width=300 aligned=center>
-<img src='/images/uk/politicalcompass.png' width=360 aligned=right>
-
-| Judicial branch        | Supreme Court of Canada (judges are appointed by the governor general on the recommendation of the prime minister) <br> Federal Court of Canada <br> Federal Court of Appeal <br> Tax Court of Canada <br>  Provincial/Territorial Courts (these are named variously Court of Appeal <br> Court of Queen's Bench, Superior Court, Supreme Court, and Court of Justice) | Supreme Court of the UK <br> Senior Courts of England and Wales (comprising the Court of Appeal, the High Court of Justice, and the Crown Courts) <br> Court of Judicature (Northern Ireland) <br> Scotland's Court of Session and High Court of the Justiciary
-| Legal system          | common law system except in Quebec where civil law based on the French civil code prevails (bijural system)     | common law system <br> Has non binding judicial review of Acts of Parliament under the Human Rights Act of 1998
+|                              |                                                                                                                                                                   **Canada** 🇨🇦                                                                                                                                                                   |                                                                                                                **United Kingdom** 🇬🇧                                                                                                                |
+|:----------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|      **Government Type**     |                                                                                                                                        Parliamentary democracy, a federation, and a constitutional monarchy                                                                                                                                       |                                                                                                    constitutional monarchy and Commonwealth realm                                                                                                   |
+|       **Capital City**       |                                                                                                                                                                       Ottawa                                                                                                                                                                      |                                                                                                                        London                                                                                                                       |
+| **Administrative Divisions** |                                                                                                                                                           10 provinces and 3 territories                                                                                                                                                          |                                                                                                                48 ceremonial counties                                                                                                               |
+|     **Executive branch**     | Federal Ministry is chosen by the prime minister usually from among the members of his own party sitting in Parliament                                                                                                                                                                                                                            | Cabinet of Ministers appointed by the prime minister                                                                                                                                                                                                |
+|    **Head of government**    |                                                                                                                                                   Former PM: Stephen Harper.              Current PM: Justin Trudeau                                                                                                                                                   |                                                                                                     Former PM: David Cameron.  Current PM: Boris Johnson                                                                                                     |
+|    **Chief/head of State**   |                                                                                                                                                         Her Majesty the Queen Elizabeth II                                                                                                                                                        |                                                                                                          Her Majesty the Queen Elizabeth II                                                                                                         |
+|   **Role of head of state**  |                                                                                                                                                                     Ceremonial                                                                                                                                                                    |                                                                                                                      Ceremonial                                                                                                                     |
+|   **Executive legitimacy**   |                                                                                                                                                  Ministry is subject to parliamentary confidence                                                                                                                                                  |                                                                                                   Ministry is subject to parliamentary confidence                                                                                                   |
+|    **Legislative branch**    |                                                                                                                                          Bicameral senate: The monarch, the Senate and House of Commons.                                                                                                                                          |                                                                                        Bicameral parliament: The Crown, House of Commons, and House of Lords.                                                                                        |
+|       **Party system**       |                                                                                                                                                                Multi- party system                                                                                                                                                                |                                                                                                                 Multi- party system                                                                                                                 |
+|      **Judicial branch**     | Supreme Court of Canada. The judges are appointed by the governor general on the recommendation of the prime minister.  Federal Court of Canada  Federal Court of Appeal  Tax Court of Canada  Provincial/Territorial Courts. These are named variously Court of Appeal  Court of Queen’s Bench, Superior Court, Supreme Court, and Court of Justice. | Supreme Court of the UK  Senior Courts of England and Wales (comprising the Court of Appeal,  The High Court of Justice, and the Crown Courts)  Court of Judicature (Northern Ireland.  Scotland’s Court of Session and High Court of the Justiciary |
+|       **Legal system**       |                                                                                                                    Common law system except in Quebec where civil law based on the French civil code prevails (bijural system).                                                                                                                   |                                                                      Common law system. Has non binding judicial review of Acts of Parliament under the Human Rights Act of 1998.                                                                     |
+|                              |                                                                                                                                                                                                                                                                                                                                                   |                                                                                                                                                                                                                                                     |
+|                              |                                                                                                                                                                                                                                                                                                                                                   |                                                                                                                                                                                                                                                     |
 
 
+## Political divisions of Canada and the United Kingdom
 
+<img src='/images/CA/canadapoliticalmap.svg' width=420 aligned="center">
+<img src='/images/uk/ukmap.jpeg' width=300 aligned="right">
+
+## Prime Ministers of Canada and the United Kingdom
+
+<img src='/images/CA/trudeau.jpeg' width=267 aligned=center> 
+<img src='/images/uk/johnson.jpeg' width=240 aligned=center> 
+<br> Justin Trudeau 🇨🇦 and Boris Johnson 🇬🇧. 
+
+## The Queen 
+<img src='/images/uk/queen.jpeg' width=240 aligned=center> <br> Her Majesty the Queen Elizabeth II, head of State of both Canada 🇨🇦 and the UK 🇬🇧. <br> Although she does not make important decisions herself, she is consulted for approval when decisions are going to be made.
+
+## Political compass of political parties in Canada and UK
+
+The number of political parties in a government can show how power is distributed: if it is either concentrated or dispersed. Is important to have in mind that the number of political parties does not say accurately how strong a democracy is. Also, this political compass shows the current parties in the Parliament.
+
+<img src='/images/CA/politicalcompass.jpeg' width=300 aligned=left>
+<img src='/images/uk/currentpp.png' width=360 aligned=right> <br>
+Canada (left) & UK (right)
