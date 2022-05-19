@@ -3,7 +3,7 @@ title: "Germany vs. USA"
 draft: false
 image: "images/Germany/germanyxUSA.jpeg"
 jobtitle: "political system comparison"
-linkedinurl: ""
+permalink: /learning-by-teaching/comparison/usa-germany/
 weight: 3
 layout: team
 --- 
