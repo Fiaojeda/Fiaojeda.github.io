@@ -1,11 +1,9 @@
 ---
-title: "Learning by Teaching"
+title: "Essays"
 featured: true
 weight: 2
 ---
 
-Learning by teaching is a project 
+Some essays I wrote as part of my academic journey in political science.
 
-To explore the project visit the [Learning by Teaching](/learning-by-teaching/) page.
-
-<img src="/images/illustrations/reading.svg" width=500>
+<img src="/images/illustrations/pointing.svg" width=500>

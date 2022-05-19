@@ -1,6 +1,6 @@
 ---
 layout: services
-permalink: /services/
+permalink: /content/
 description: Services
 intro_image: "/images/illustrations/pointing.svg"
 intro_image_absolute: true
@@ -15,4 +15,4 @@ intro_image_hide_on_mobile: true
 
 <br>
 
-Aliquam erat volutpat. Morbi nisl tortor, dignissim eget efficitur vel, auctor non felis. Fusce quis viverra mi. Aenean quis massa pretium, ullamcorper nisi eget, hendrerit odio.
+Find below all the content I have created during my academic path in Political Science.
