@@ -5,6 +5,7 @@ image: "images/Germany/germanyxUSA.jpeg"
 jobtitle: "political system comparison"
 linkedinurl: ""
 weight: 3
+layout: team
 --- 
 
 <img src='/images/Germany/germany_flag.png' width=200 aligned=center>
