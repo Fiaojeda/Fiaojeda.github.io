@@ -1,7 +1,7 @@
 ---
 title: "Blog"
 permalink: /blog/
-layout: default
+layout: services
 --- 
 
 This page is under construction.
