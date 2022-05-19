@@ -1,5 +1,5 @@
 ---
-title: "USA vs. Canada"
+title: "Canada vs.USA"
 draft: false
 image: "images/USA/USAxCA.png"
 jobtitle: "Political system comparison"
@@ -27,14 +27,30 @@ weight: 5
 |                              |                                                                                                                                                                                                                                                                                                                                                         |                                                                                                                                                                                                                                                 |
 |                              |                                                                                                                                                                                                                                                                                                                                                         |                                                                                                                                                                                                                                                 |
 
-<img src='/images/USA/USA_politicalmap.png' width=450 aligned="right">
+## Political divisions of Canada and the United States
 
+<img src='/images/CA/canadapoliticalmap.svg' width=350 aligned="center">
+<img src='/images/USA/USA_politicalmap.png' width=370 aligned="right">
 
-<img src='/images/USA/Joe_Biden.png' width=150 aligned=center>
+## Prime Ministers of Canada and the United Kingdom
 
+<img src='/images/CA/trudeau.jpeg' width=267 aligned=center> 
+<img src='/images/USA/Joe_Biden.png' width=270 aligned=center>
+<br> Justin Trudeau 🇨🇦 and Joe Biden 🇺🇸. 
 
+## Head of state of the United States and Canada
 
-<img src='/images/USA/Joe_Biden.png' width=163 aligned=right>
+<img src='/images/uk/queen.jpeg' width=240 aligned=center> <br> 
+<img src='/images/USA/Joe_Biden.png' width=270 aligned=right>
 
+Her Majesty the Queen Elizabeth II, head of State of both Canada 🇨🇦 and the UK 🇬🇧. <br> Although she does not make important decisions herself, she is consulted for approval when decisions are going to be made.
 
-<img src='/images/USA/USsenate.jpeg' width=300 aligned=right>
+## Political compass of political parties in Canada and the United States
+
+The number of political parties in a government can show how power is distributed: if it is either concentrated or dispersed. Is important to have in mind that the number of political parties does not say accurately how strong a democracy is. Also, this political compass shows the current parties in the Congress/Parliament. 
+
+Since the US only counts with two parties: Democrats and Republicans, a political compass cannot be too useful. Instead, there is a visualisation of their ideologies. Democrats can be seen as the liberals and the Republicans can be seen as the conservatives. 
+
+<img src='/images/CA/politicalcompass.jpeg' width=300 aligned=left>
+<img src='/images/USA/repvsdem.jpeg' width=300 aligned=right>
+Canada (left) & US (right)
