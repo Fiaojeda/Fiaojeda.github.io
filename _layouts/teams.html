@@ -44,11 +44,13 @@ bodyClass: "page-teams"
     <h1>Comparisons</h1><br>
     Let's do one-to-one comparisons to find out differences and similitudes between countries!
     <div class="row pt-6 pb-6">
+        What's here
         {% assign teams = site.team | where: "promoted", empty | sort: "weight" %}
         {% for team in teams %}
         <div class="col-12 col-md-4 mb-3">
             <div class="team team-summary">
                 {% if team.image %}
+                Image team
                 <div class="team-image">
                     <img width="60" height="60" alt="{{ team.title }}" class="img-fluid mb-2" src="{{ team.image | relative_url }}" />
                 </div>
