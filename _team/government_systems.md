@@ -35,7 +35,7 @@ The Canadian parliament and the British parliament
 
 The legislative branch of the parliamentary system versus the presidential system may either be unicameral or bicameral. <br>
 
-<img src='/images/USA/unibicameral_Map.svg' width=500 aligned=right>
+<img src='/images/USA/Unibicameral_Map.svg' width=500 aligned=right>
 
 <span style="color:lightblue">  Nations with a bicameral legislature </span> <br>
 <span style="color:orange">  Nations with a unicameral legislature </span> <br>
@@ -43,8 +43,13 @@ The legislative branch of the parliamentary system versus the presidential syste
 <span style="color:black">  Nations with no legislature </span> <br>
 
 ## Federalism:
-In a genuine democratic federation there is a compound sovereign state
-A federation implies a condified and written constitution, normally acompained at the federal level by the supreme court. 
+In a genuine democratic federation there is a compound sovereign state in which at least two (2) governmental units, the federal and the regional, ejoy constitutionally separate competencies. 
+
+Both the federal and regional governments are empowered to deal directly with citizens. So, citizens have the power and the responsibility to directly elect some components of the federal and/or regional governments. As well, the federal government is not allowed to to alter the horizontal division of powers. 
+
+
+A federation implies a condified and written constitution, normally acompained at the federal level by the supreme court, accompanied by a bicameral legislature and differences between the governmental tiers. 
+
 Federations can be multi-national/multi-ethnic or mononational.
 
 **Multi-national/ multi-ethnic** <br>
@@ -63,3 +68,4 @@ Federal republic
 
 If you would like to read more about government systems:
 - Mainwaring, Scott. "Presidentialism, Multipartism, and Democracy: The Difficult Combination". Comparative Political Studies. (1993) 26. For more information visit this [link](https://heinonline-org.ez.urosario.edu.co/HOL/Page?collection=journals&handle=hein.journals/compls26&id=193&men_tab=srchresults).
+- - John McGarry and Brendan O'Leary. "Federation as a Method of Ethnic Conflict Regulation". (2004) Forum of Federations. For more information visit this [link](https://e-aulas.urosario.edu.co/pluginfile.php/2503990/mod_resource/content/1/McGearry%20and%20OLearry%20Power_sharing_democracy_federation_ethnic_conflict_regulation.pdf)
