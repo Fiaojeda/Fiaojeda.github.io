@@ -4,13 +4,9 @@ layout: contact
 description: Contact
 ---
 
-Find me on [LinkedIn](www.linkedin.com).
 
-| Day       | Opening Hours   |
-| --------- | --------------- |
-| Tuesday   | 8:30am - 5:00pm |
-| Wednesday | 8:30am - 5:00pm |
-| Thursday  | 8:30am - 5:00pm |
-| Friday    | 8:30am - 5:00pm |
-| Saturday  | 10:am - 4:00pm  |
-| Saturday  | Closed          |
+## Let's connect!
+
+Find me on [LinkedIn](www.linkedin.com) or on [Twitter](www.twitter.com/ffiaojeda).
+
+<img src="/images/illustrations/pointing.svg" width=500>
