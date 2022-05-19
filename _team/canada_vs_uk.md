@@ -33,7 +33,7 @@ promoted: false
 
 ## Political divisions of Canada and the United Kingdom
 
-<img src='/images/CA/canadapoliticalmap.svg' width=420 aligned="center">
+<img src='/images/CA/Canadapoliticalmap.svg' width=420 aligned="center">
 <img src='/images/uk/ukmap.jpeg' width=300 aligned="right">
 
 ## Prime Ministers of Canada and the United Kingdom
