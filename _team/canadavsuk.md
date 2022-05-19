@@ -5,11 +5,9 @@ image: "images/CA/CanadaxUK.jpeg"
 jobtitle: "Political system comparison"
 permalink: /learning-by-teaching/comparison/canada-uk/
 weight: 3
+layout: team
+promoted: true
 ---
-
-
-  
-
 
 <img src='/images/CA/flagCAA.svg' width=300 aligned=center>
 <img src='/images/uk/ukflagmap.jpeg' width=200 aligned=center>

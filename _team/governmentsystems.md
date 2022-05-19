@@ -4,7 +4,7 @@ draft: false
 image: "images/uk/government.png"
 jobtitle: "Presidentialism / Parliamentarism / Federalism"
 permalink: /learning-by-teaching/government-systems/
-promoted: true
+promoted: false
 weight: 1
 layout: team
 width: 80
@@ -57,8 +57,6 @@ Switzerland was the first federation established in 1948 and Canada, established
 The intention behind national federalism is nation building and the elimination of internal national (and perhaps ethnic) differences. 
 The United States is the founding nation of the mononational federalism. 
 
-
- 
 
 ## Constitutional Monarchy: 
 A democratic monarchy where the monarch exercises power although is under the rule of law. The legislature holds power apart from the monarch and there are constitutional rights. 

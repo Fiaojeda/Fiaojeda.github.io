@@ -5,7 +5,10 @@ image: "images/uk/ukxgermany.png"
 jobtitle: "Political system comparison"
 permalink: /learning-by-teaching/comparison/germany-uk/
 weight: 4
+layout: team
+promoted: true
 ---
+
 
 <img src='/images/Germany/germany_flag.png' width=200 aligned=center>
 <img src='/images/uk/ukflagmap.jpeg' width=200 aligned=center>
@@ -54,3 +57,5 @@ The number of political parties in a government can show how power is distribute
 <img src='/images/uk/currentpp.png' width=300 aligned=right>
 
 Germany (left )and UK's (right) political parties. 
+
+:)

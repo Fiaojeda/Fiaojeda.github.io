@@ -3,8 +3,12 @@ title: "Canada vs.USA"
 draft: false
 image: "images/USA/USAxCA.png"
 jobtitle: "Political system comparison"
+permalink: /learning-by-teaching/comparison/usa-canada/
 weight: 5
+layout: team
+promoted: true
 ---
+
 
 <img src='/images/CA/flagCAA.svg' width=300 aligned=center>
 <img src='/images/USA/USA_Flag.png' width=300 aligned=center>
