@@ -1,6 +1,6 @@
 ---
 layout: services
-permalink: /content/
+permalink: /services/
 description: Services
 intro_image: "/images/illustrations/pointing.svg"
 intro_image_absolute: true
