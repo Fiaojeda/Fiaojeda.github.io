@@ -10,8 +10,8 @@ show_call_box: true
 
 # The Sof-power
 
-<img src='/images/uk/UK_flag.png' width=100 aligned=center>
-<img src='/images/uk/UK_flag.png' width=100 aligned=center>
-<img src='/images/uk/UK_flag.png' width=100 aligned=center>
+<img src='/images/AR_flag.png' width=108 aligned=center>
+<img src='/images/CO_flag.png' width=100 aligned=center>
+<img src='/images/CA/CANADA.png' width=130 aligned=center>
 
 <br>
