@@ -7,7 +7,7 @@ jobtitle: "Political system comparison"
 linkedinurl: ""
 weight: 7
 layout: team
-promoted: true
+promoted: false
 ---
 
 Add text here.

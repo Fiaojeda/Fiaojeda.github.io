@@ -4,7 +4,7 @@ draft: false
 image: "images/uk/government.png"
 jobtitle: "Presidentialism / Parliamentarism / Federalism"
 permalink: /learning-by-teaching/government-systems/
-promoted: false
+promoted: true
 weight: 1
 layout: team
 width: 80
@@ -12,7 +12,6 @@ height: 80
 ---
 
 A government system is the whole set of rules and institutions that shape the legal and political units over a territory (usually a country) and the population within. 
-
 
 ## Presidentialism: 
 A presidentialist system consists of a president (executive), a judicial branch and a legislative branch. The president is the head of government and is essentially popularly elected to a fixed term. There is executive/legislative deadlock, meaning that there are restrictions as there are divisions of power. Therefore, a greater likelihood exists that the head of government will have limited administrative and party experience. <br>
@@ -22,7 +21,6 @@ A presidentialist system consists of a president (executive), a judicial branch 
 <figcaption> <p style="font-size:11px;"> George Washington, Thomas Jefferson, Theodore Roosevelt and Abraham Lincoln carved at the Mount Rushmore, US (Left) White House of the United States of America (Right).</p>
 </figcaption>
 </figure>
-
 
 
 ## Parliamentarism: 

@@ -6,7 +6,7 @@ jobtitle: "political system comparison"
 permalink: /learning-by-teaching/comparison/usa-germany/
 weight: 3
 layout: team
-promoted: true
+promoted: false
 --- 
 
 <img src='/images/Germany/germany_flag.png' width=200 aligned=center>

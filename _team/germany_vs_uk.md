@@ -6,7 +6,7 @@ jobtitle: "Political system comparison"
 permalink: /learning-by-teaching/comparison/germany-uk/
 weight: 4
 layout: team
-promoted: true
+promoted: false
 ---
 
 

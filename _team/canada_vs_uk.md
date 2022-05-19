@@ -6,7 +6,7 @@ jobtitle: "Political system comparison"
 permalink: /learning-by-teaching/comparison/canada-uk/
 weight: 3
 layout: team
-promoted: true
+promoted: false
 ---
 
 <img src='/images/CA/flagCAA.svg' width=300 aligned=center>

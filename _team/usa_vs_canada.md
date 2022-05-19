@@ -6,7 +6,7 @@ jobtitle: "Political system comparison"
 permalink: /learning-by-teaching/comparison/usa-canada/
 weight: 5
 layout: team
-promoted: true
+promoted: false
 ---
 
 
