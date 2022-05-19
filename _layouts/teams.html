@@ -44,7 +44,7 @@ bodyClass: "page-teams"
     <h1>Comparisons</h1><br>
     Let's do one-to-one comparisons to find out differences and similitudes between countries!
     <div class="row pt-6 pb-6">
-        {% assign teams = site.team | where: "promoted", true | sort: "weight" %}
+        {% assign teams = site.team | where: "promoted", false | sort: "weight" %}
         {% for team in teams %}
         <div class="col-12 col-md-4 mb-3">
             <div class="team team-summary">
