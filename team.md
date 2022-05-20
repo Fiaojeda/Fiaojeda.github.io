@@ -20,7 +20,7 @@ A political system is a set of structures and agencies in charge of formulating 
 
 It is important to compare political systems to get to know more profoundly how certain countries work. It can also help shape the perception of reality and how power and decision making is done within national or international boundaries. 
 
-To get the most out of this website, I encourgae you to read some basic [definitions](/learning-by-teaching/definitions/) that will help you to understand how several political systems function around the world!
+To get the most out of this website, I encourage you to read some basic [definitions](/learning-by-teaching/definitions/) that will help you to understand how several political systems function around the world!
 
 <div>
     <div class="row pt-6 pb-6">
