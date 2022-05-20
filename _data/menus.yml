@@ -16,7 +16,7 @@ main:
     weight: 6
 
 footer:
-  - name: "Something"
+  - name: "More"
     url: "/"
     weight: 1
   - name: "Contact"
