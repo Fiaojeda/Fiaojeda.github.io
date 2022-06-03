@@ -33,7 +33,7 @@ promoted: false
 
 ## Political divisions of Canada and the United States
 
-<img src='/images/CA/canadapoliticalmap.svg' width=350 aligned="center">
+<img src='/images/CA/Canadapoliticalmap.svg' width=420 aligned="center">
 <img src='/images/USA/USA_politicalmap.png' width=370 aligned="right">
 
 ## Prime Minister of Canada and President of the United States
