@@ -5,7 +5,8 @@ description: About
 bodyClass: page-about
 ---
 
-Sofía was born in Bogotá, Colombia. For her 14th birthday she had the opportunity to live in Bariloche, Argentina. After a couple of years, Sofia moved up to the canadian rocky mountains and finished high school in Calgary, Alberta. Presently, she is enrolled in the Bachelor of Arts of Political Science at Del Rosario University, located in her hometown, Bogotá.
+
+Sofía was born in Bogotá, Colombia. For her 14th birthday she moved to Bariloche, Argentina. After enjoying the local culture and making some friends, Sofia continued her journey in Canada, close to the canadian rocky mountains, where she finished her high school. Currently, she is enrolled in the Bachelor of Arts of Political Science at Del Rosario University, located in her hometown, Bogotá D.C.
 
 When traveling across the continent Sofia came across new cultures, which contributed to widen her perception of the world: how society is shapen from individuals. These experiences awakened an intense enthusiasm to study in more detail how social relationships articulate and shape the world we live in.
 
