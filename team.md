@@ -6,6 +6,8 @@ permalink: "/learning-by-teaching/"
 intro_image_absolute: true
 intro_image_hide_on_mobile: false
 ---
+
+
 # Comparative Politics <br>
 
 <img src='/images/world.png' width=600 aligned=right>

@@ -1,12 +1,13 @@
 ---
 title: Pandemia
 permalink: /opinion/pandemia/
-layout: _services
+layout: services
 ---
 
 ### LA PANDEMIA 
 
 # Unos gritan, otros duermen
+<br>
 
 ## En Colombia unos pueden dormir tranquilos, mientras otros se arrastran para sobrevivir en el día a día.
 

@@ -1,7 +1,7 @@
 ---
 title: "Trips & Journeys"
 featured: true
-weight: 3
+weight: 4
 ---
 
 Remarkable experiences overseas. 
