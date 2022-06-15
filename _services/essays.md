@@ -18,7 +18,7 @@ Otro aspecto relevante del ejercicio del poder es su capacidad de operar de mane
 La XVIII civilización egipcia y la Dinastía Ming ilustran cómo la construcción del poder requiere, además de escenarios puramente políticos, escenarios sociales, donde los individuos son sometidos a su propia voluntad pero la sistemática de conductas es suficiente para encauzarlos y ordenarlos. De esta manera se ha construído el poder en diferentes sociedades a través del tiempo.
 
 
-## Cómo debe ser un Estadista según Platón.
+## ¿Cómo debe ser un Estadista según Platón?
 
 A Platón le parecía inevitable la conexión entre la política y la moral. Si se entiende que la política se funda bajo la idea de valores humanos encadenados que definen lo ético; entonces, a partir de ella, se instauran los límites de lo bueno y lo justo. Platón llama esto la salud del alma. Así, un estadista articularía y vigilaría las conductas éticas y morales de los hombres. Para ser un gobernante, Platón expone características particulares como: tener una formación íntegra para entender y reconocer las virtudes morales e intelectuales; lo bueno y lo justo. Platón, entonces, ve en el estadista un médico del alma. 
 
@@ -28,7 +28,7 @@ Ahora, para evitar que recaiga la definición del bien y la justicia sobre el es
 
 En conclusión, la educación del estadista debe ser completa para asegurar la instauración del orden en la sociedad por medio del bien y la justicia. Así, el verdadero gobernante podría cuestionar la mejor manera de moldear la ética y moral de los ciudadanos, pues todos son depositarios de la virtud. Esta habilidad y ambición de formar hombres buenos, justos y felices funda al filósofo-rey, al médico del alma.  
 
-## Cómo se construye el poder en la cultura islámica
+## ¿Cómo se construye el poder en la cultura islámica?
 
 La cultura islámica es un ejemplo representativo de cómo la esfera del poder religioso y la esfera del poder político no solamente carecen de independencia, sino además de cómo el orden político y social se rigen por dogmas y códigos de conducta definidos por contenidos expresos e incluidos en los libros considerados sagrados.
 En primer lugar se encuentra el Corán. En su connotación religiosa, el Corán expresa la revelación de Dios al último profeta, Mahoma. Sin embargo, en el contexto político, su contenido dicta normas, sanciones y castigos estableciendo así conductas permitidas en la sociedad y regulando diferentes prescripciones jurídicas, incluyendo el derecho de familia, civil, y penal. Por otro lado, los textos incluidos en El Hadiz, libro que hace parte del corpus doctrinal del Corán, es fuente primordial de la organización y argumentación jurídica y política que se encarga de crear un Estado de derecho legítimo. Pues se basa en las narraciones y aspectos de la vida de Mahoma. Este es el caso de Medina, ubicada en la actual Arabia Saudita y reconocida por ser la ciudad donde se encuentra sepultado Mahoma. Allí, acude al Hadiz para llenar vacíos jurídicos basándose en los relatos donde se describen las conductas recomendadas, ordenadas o prohibidas. Por último, la Sharia es un código de conducta que determina los deberes de los individuos en su vida pública y sirve como base para la integración del Estado. 
