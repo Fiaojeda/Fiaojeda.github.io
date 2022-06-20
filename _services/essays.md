@@ -26,3 +26,6 @@ Some essays I wrote as part of my academic journey in political science.
 
 - [La interpretación neoliberal del socialismo](/essays/interpretacion-neoliberal-socialismo)
 
+
+
+#### Los escritos incluidos en este blog hacen parte de trabajos de autoria original por (c) Sofía Barreto Ojeda 2022.
