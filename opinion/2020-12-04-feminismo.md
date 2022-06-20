@@ -1,15 +1,16 @@
 ---
-title: Feminismo
-permalink: /opinion/feminismo/
-layout: services
----
-
-### Feminismo 
-
-# Históricas no histéricas
-<br>
+title: Históricas no histéricas
+permalink: /opinion/historicas-no-histericas
+layout: page
+tags: 
+- feminismo
+categories:
+- opinion 
+- feminismo
+--- 
 
 ## La mujer ha demostrado su valor y capacidad de luchar en contra de las cadenas impuestas por la sociedad.
+##### 4 de diciembre de 2020
 
 <img src='/images/feminismo.png' width=400 aligned=center>
 
@@ -21,3 +22,8 @@ En consecuencia, la ocupación de mujeres en cargos de alta calificación y posi
 
 Personalmente, me quedo con el feminismo, yo lo llamo, feminismo ejemplar. Divulga y apropiado a través del ejemplo. El feminismo ejemplar nos habla desde la historia. Los aportes de Marie Curie y Ada Lovelace nos muestran que la inclinación hacia las ciencias está lejos de ser predefinida por el género. Las habilidades envidiables de Ángela Merkel y el coraje de Sojourner Truth revelan que la debilidad, ni para llevar las riendas de un país. Christina Koch lleva el espíritu feminista hasta en el espacio exterior, mientras las historias de Isabel Allende sacuden nuestro espacio interior. Los ejemplos son muchos y las líneas cortas. Que la historia nos siga llenando de ejemplos feministas y que mi mensaje hoy quede claro: las mujeres no son histéricas con sus emociones, son históricas con sus mociones.  
 
+
+<br>
+
+
+###### (c) Sofia Barreto Ojeda 2022.
