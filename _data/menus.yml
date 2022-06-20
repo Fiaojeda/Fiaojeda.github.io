@@ -2,7 +2,7 @@ main:
   - name: "Home"
     url: "/"
     weight: 2
-  - name: "Learning by Teaching"
+  - name: "Comparative politics"
     url: "/learning-by-teaching/"
     weight: 3
   - name: "Blog"
