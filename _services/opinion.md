@@ -59,4 +59,4 @@ La mujer ha demostrado su valor y capacidad de luchar en contra de las cadenas i
 - [La interpretación neoliberal del socialismo](/essays/interpretacion-neoliberal-socialismo)
 
 
-#### Los escritos incluidos en este blog hacen parte de trabajos de autoria original por (c) Sofía Barreto Ojeda 2022.
+#### Los escritos incluidos en este blog hacen parte de trabajos de autoria original por (c) Sofía Barreto Ojeda 2022. 
