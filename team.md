@@ -1,5 +1,5 @@
 ---
-title: Learning by Teaching
+title: Comparative Politics
 layout: teams
 description: Team
 permalink: "/learning-by-teaching/"
