@@ -6,7 +6,7 @@ permalink: /learning-by-teaching/comparison/canada-germany/
 jobtitle: "Political system comparison"
 linkedinurl: ""
 weight: 7
-layout: team
+layout: page
 promoted: false
 ---
 <img src='/images/CA/flagCAA.svg' width=300 aligned=center>
