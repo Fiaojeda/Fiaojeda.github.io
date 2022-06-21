@@ -1,0 +1,43 @@
+---
+title: La idealización como impulso para la lucha por el reconocimiento
+permalink: /essays/idealizacion-para-impulsar-la-lucha
+layout: page
+tags: 
+- lucha
+- reconocimiento
+- idealizacion
+categories:
+- sociedad
+- jovenes
+---
+<br>
+
+**Resumen:**  Este artículo pretende señalar que la idealización de una lucha es necesaria para visualizar una imagen de lo que puede llegar a lograr. Como primera medida se abarca el tema de la idealización y la imagen que adapta una lucha si se idealiza el fin apelando a la emoción. Luego, se menciona cómo la lucha por el reconocimiento de los jóvenes ha abarcado la idealización y las emociones para su impulso, pero no basa sus acciones en lo que siente. Por último, se expone cómo la idealización de la lucha de los jóvenes por el reconocimiento busca crear una imagen más amplia de su fin para llegar a otros y no imponer lo que busca combatir. 
+
+<br> 
+
+**Palabras clave:** idealización, sentimientos, reconocimiento, imagen, jóvenes.  
+
+<br>
+
+Adrián Restrepo formula en su texto “Los jóvenes y sus luchas por el reconocimiento”, que las formas tradicionales de participación ciudadana, como la protesta o el referendo, son insuficientes para establecer las diversas opiniones e identidades políticas. Impulsados por un sentimiento común de reconocimiento político y social, los jóvenes han creado alternativas de participación ciudadana. Sin embargo, existe una tendencia a rechazar nuevas formas de expresión, que estigmatizan la participación de los jóvenes por la influencia de cánones conservadores en otros sectores de la población. Dicho rechazo es interpretado por los jóvenes como un impulso a la motivación para emprender la lucha por el reconocimiento social y político, bajo la premisa implícita de la pluralidad como reflejo de un sistema democrático. En este contexto, es válido cuestionarse ¿cuál es el papel de la idealización como agente influenciador en la lucha social? Con base en el ensayo de Estanislao Zuleta “Idealización en la vida personal y colectiva”, expondré argumentos que sustentan que una lucha con un amplio alcance puede transfigurar su propósito a través de la idealización y la apelación de las emociones, lo que crea falsas imágenes de sí misma. Como consecuencia de la idealización, la lucha empieza a tomar una imagen que no condensa lo que inicialmente aspira combatir. 
+
+
+En primer lugar, Estanislao Zuleta expresa que idealizar el fin de una lucha es necesario, ya que la acción, entendida como el comportamiento que lleva a lograr el fin, no puede sostenerse si no es simultáneamente idealizada. La idealización es un proceso que opera por medio de imágenes: toma determinados momentos y les otorga un valor, condensando su esencia (Zuleta 22). Si una imagen pretende persuadir diferentes esferas, como la familiar o social, para que una lucha gane impulso en otros sectores de la población, lo más probable es que se apele a la emoción (como la impotencia o el resentimiento). Esto lleva a desorientar el fin de una lucha, ya que lo que se defiende pasa a ser interpretado de manera emocional o relativa y no lo que realmente es. En este punto, una lucha busca dibujarse como un grupo con unanimidad protectora, garante de identidad y protección que se enfrenta a un mundo exterior amenazante (Zuleta 21), con el fin de crear una imagen emocional y salvadora para los jóvenes. En este caso, la lucha por el reconocimiento de los jóvenes no tendría el objetivo de incentivar la creación de canales alternativos para promover una sociedad pluralmente política y con ello permitir una fructífera articulación de la identidad de los jóvenes; más bien, pretende reconocer que la frustración de los jóvenes por la falta de reconocimiento social y político los ha llevado a organizar un movimiento social. En este punto, la lucha llega a transfigurar su propósito para ser valorada por la imagen que genera, reduciendo los objetivos propuestos al no permitir un análisis genuino; sino interponiendo su interpretación subjetiva.  
+
+
+Por otro lado, la frecuente exclusión de jóvenes en la esfera pública ha desencadenado la investigación y creación de modelos de participación política y social alternativos. Adrián Restrepo sostiene que estos modelos buscan trascender al ámbito grupal en la constitución del reconocimiento por parte de los excluidos; y esto se puede entender como la progresión de la identidad (183). La lucha por el reconocimiento no se basa únicamente en la posibilidad de permitir la articulación satisfactoria de la vida política y social de los jóvenes; también busca el reconocimiento en las dimensiones de la agencia, la autonomía, el autorrespeto y la autorrealización. Es decir, en la esfera personal. Así que, si se limita este desarrollo, los jóvenes se ven obligados a configurar su identidad basándose en el contenido difundido por los medios, carentes de libertad de elegir material que satisfaga su apetito social y político. Cuando los jóvenes identifican esta privación de libertad, empiezan a adoptar actitudes que reflejan inconformidad con el sistema, catalizando el surgimiento de estallidos sociales. Adicionalmente, limitar la capacidad de desarrollo político y social en los jóvenes imposibilita el fortalecimiento del debate público y, a la vez, incide en la ausencia de formación de una opinión plural y democrática (Restrepo 191). Aunque la imagen que crea Adrián Restrepo idealiza parte de la lucha y toma en cuenta las emociones de los jóvenes, como la frustración y la exclusión social, no basa las causas del movimiento social en ellas; más bien, recuerda que son ese tipo de sentimientos los que se quieren evitar a futuro, son las acciones objetivas las que permiten instaurar el cambio que se desee.  
+
+ 
+
+Teniendo en cuenta lo anterior, es difícil no idealizar una lucha; sin embargo, es necesario hacerlo para visualizar escenarios en donde se obtienen los mejores resultados. Pero es al incluir emociones en la idealización que se empieza a transfigurar su fin, debido a que se condensa la lucha en una imagen y se limita su interpretación. En el marco del reconocimiento de los jóvenes, las emociones y las heridas morales causadas por la exclusión y la frustración permitieron que se desatara un movimiento social, pero no hay alguna base directamente en ellas. Es decir, la lucha de los jóvenes reconoce que las heridas morales incitan a la acción, pero la acción no puede ser motivada por las emociones. Así que, desde que se limite la intervención de las emociones en los motivos de la acción, el fin de la lucha no va a transformarse, pues mantiene su núcleo intacto de malinterpretaciones. Ahora bien, la lucha por el reconocimiento de los jóvenes ha demostrado que dar lugar a la formación de opinión, a través de diferentes contenidos políticos y sociales, permite crear imágenes más amplias para llegar a más personas. La apertura de canales con diversos contenidos permite reconocer la postura del otro sin necesidad de compartirla y esto abre la puerta a nuevas discusiones y opiniones que pueden moldearse. En esta discusión no se busca imponer una idea sobre otra ni dar por más válida la opinión de un grupo que de otro; sino ampliar el margen de lo que ya conocen las personas para que reconozcan la mutación de las necesidades de los individuos y solidificar los argumentos y acciones. Todo es cuestión de perspectiva.  
+
+En conclusión, idealizar la lucha resulta necesario para visualizar el mejor escenario posible de su resultado. La idealización de la lucha influencia sus acciones para llegar al fin que desea tener y el impacto que busca causar. Sin embargo, al apelar a las emociones en la idealización la lucha es susceptible a trasfigurar su propósito, pues lo que pasa a defender se interpreta por medio de los sentimientos y no lo que realmente es. En el marco de la lucha por el reconocimiento de los jóvenes, los sentimientos de exclusión son un impulso para continuar con la lucha, pero las acciones para llegar al fin no son basadas en ellas. Por último, para evitar caer en la apelación de las emociones, lo jóvenes reconocen que es a través de los diferentes espacios y contenidos que se puede llegar a otros. Por lo tanto, son las acciones objetivas y concretas para abrir estos espacios las que dan lugar al reconocimiento de los jóvenes.  
+
+
+### Bibliografía 
+
+Restrepo, Adrián. “Los Jóvenes Y Sus Luchas Por El Reconocimiento.” Nómadas (Colombia), vol. unknown, no. 32, 2010, pp. 179–194. 
+
+
+Zuleta, Estanislao. Ensayos Selectos. Instituto para el Desarrollo de Antioquia -IDEA-, 2004. pp. 19-39. 
