@@ -1,14 +1,14 @@
 ---
 title: The Sof Power
 layout: home
-description: Jekyll Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+description: "by: Sofía Barreto"
 intro_image: "/images/illustrations/nadezna_baruns.png"
 intro_image_absolute: false
 intro_image_hide_on_mobile: true
 show_call_box: true
 ---
 
-# The Sof-power
+# The Sof-power <br> by Sofía Barreto
 
 <img src='/images/AR_flag.png' width=88 aligned=center>
 <img src='/images/CO_flag.png' width=90 aligned=center>
