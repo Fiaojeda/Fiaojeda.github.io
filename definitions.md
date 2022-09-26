@@ -1,7 +1,7 @@
 ---
 title: Definitions
 permalink: /learning-by-teaching/definitions/
-layout: team
+layout: page
 ---
 
 Head of government, head of state, party system, legal system and other terms that are needed to understand the comparison of different countries and their political systems"
