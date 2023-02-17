@@ -2,7 +2,7 @@
 title: The Sof Power
 layout: home
 description:
-intro_image: "/images/illustrations/nadezna_baruns.png"
+intro_image: "/images/illustrations/maar_picasso.jpg"
 intro_image_absolute: false
 intro_image_hide_on_mobile: true
 show_call_box: true
