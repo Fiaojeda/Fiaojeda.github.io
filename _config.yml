@@ -1,9 +1,9 @@
-baseurl: ''
+baseurl: ""
 permalink: pretty
-title: 'The Sof-power'
+title: "The Sof-power by: Sofía Barreto"
 
 logo:
-  mobile: "images/logo/logo-mobile.png" #search up an icon 
+  mobile: "images/logo/logo-mobile.png" #search up an icon
   mobile_height: "32px"
   mobile_width: "32px"
   desktop: "images/logo/logo.png"

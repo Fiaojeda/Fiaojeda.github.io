@@ -59,4 +59,8 @@ Some essays and opinion articles I wrote as part of my academic journey in polit
 
 - [La interpretación neoliberal del socialismo](/essays/interpretacion-neoliberal-socialismo)
 
+- [Teoría Política: Montesquieu](/essays/teoria-politica-montesquieu)
+
+- [Elitismo o populismo, ¿cuál es el mayor peligro para las democracias contemporáneas?](/essays/elitismo-vs-populismo)
+
 #### Los escritos incluidos en este blog hacen parte de trabajos de autoria original por (c) Sofía Barreto Ojeda 2022.

@@ -3,7 +3,7 @@ title: "UK vs. US"
 draft: false
 image: "images/USA/usaxuk.webp"
 jobtitle: "political system comparison"
-permalink: /learning-by-teaching/comparison/usa-uk/
+permalink: /comparative-politics/comparison/usa-uk/
 weight: 6
 layout: team
 promoted: false

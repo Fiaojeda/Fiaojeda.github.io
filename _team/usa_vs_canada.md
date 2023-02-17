@@ -3,7 +3,7 @@ title: "Canada vs.USA"
 draft: false
 image: "images/USA/USAxCA.png"
 jobtitle: "Political system comparison"
-permalink: /learning-by-teaching/comparison/usa-canada/
+permalink: /comparative-politics/comparison/usa-canada/
 weight: 5
 layout: team
 promoted: false

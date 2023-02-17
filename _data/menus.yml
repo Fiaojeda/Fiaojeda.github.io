@@ -3,7 +3,7 @@ main:
     url: "/"
     weight: 2
   - name: "Comparative politics"
-    url: "/learning-by-teaching/"
+    url: "/comparative-politics/"
     weight: 3
   - name: "Blog"
     url: "/blog/"

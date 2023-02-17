@@ -2,7 +2,7 @@
 title: Pretty Scottish, pretty different 🏴󠁧󠁢󠁳󠁣󠁴󠁿
 featured: true
 weight: 4
-permalink: /learning-by-teaching-memo-ii/
+permalink: /comparative-politics-memo-ii/
 layout: page
 tags:
   - scotland

@@ -2,7 +2,7 @@
 title: Transition to democracy in Venezuela 🇻🇪
 featured: true
 weight: 3
-permalink: /learning-by-teaching-memo-i/
+permalink: /comparative-politics-memo-i/
 layout: page
 tags:
   - democracy

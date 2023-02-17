@@ -3,7 +3,7 @@ title: "Canada vs. UK"
 draft: false
 image: "images/CA/CanadaxUK.jpeg"
 jobtitle: "Political system comparison"
-permalink: /learning-by-teaching/comparison/canada-uk/
+permalink: /comparative-politics/comparison/canada-uk/
 weight: 3
 layout: team
 promoted: false

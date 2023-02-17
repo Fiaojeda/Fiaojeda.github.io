@@ -3,7 +3,7 @@ title: "Germany vs. UK"
 draft: false
 image: "images/uk/ukxgermany.png"
 jobtitle: "Political system comparison"
-permalink: /learning-by-teaching/comparison/germany-uk/
+permalink: //comparative-politics/comparison/germany-uk/
 weight: 4
 layout: team
 promoted: false
