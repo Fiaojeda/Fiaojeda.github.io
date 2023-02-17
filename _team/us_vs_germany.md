@@ -45,7 +45,8 @@ promoted: false
 <img src='/images/uk/king_charles.jpg' width=260 aligned=center> <br>
 <img src='/images/USA/Joe_Biden.png' width=270 aligned=right>
 
-Her Majesty the Queen Elizabeth II is head of State of UK 🇬🇧 . Although she does not make important decisions herself, she is consulted for approval when decisions are going to be made. In the US 🇺🇸 the president has the role of both head of government and head of state.
+King Charles III is head of State of both Canada 🇨🇦 and the UK 🇬🇧. Although he does not make important decisions himself, he is consulted for approval when decisions are going to be made. <br>
+In the US 🇺🇸 the president has the role of both head of government and head of state.
 
 ## Political compass of political parties in Canada and the United States
 

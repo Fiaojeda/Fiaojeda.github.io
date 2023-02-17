@@ -43,7 +43,7 @@ promoted: false
 ## Head of State of Canada and Germany
 <img src='/images/uk/queen.jpeg' width=240 aligned=center> 
 <img src='/images/Germany/Walter_stermeier_PG.png' width=222 aligned=center>
- <br> Her Majesty the Queen Elizabeth II, is the head of State of Canada 🇨🇦. Although she does not make important decisions herself, she is consulted for approval when decisions are going to be made. In Germany, instead, the president is the head of state.
+ <br> King Charles III is head of State of both Canada 🇨🇦 and the UK 🇬🇧. <br> Although he does not make important decisions himself, he is consulted for approval when decisions are going to be made.
 
 ## Political compass of political parties in Canada and Germany
 

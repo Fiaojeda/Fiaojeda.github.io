@@ -42,7 +42,7 @@ promoted: false
 
 ## The King
 
-<img src='/images/uk/king_charles.jpg' width=260 aligned=center> <br> His Majesty the King Charles III, head of State of both Canada 🇨🇦 and the UK 🇬🇧. <br> Although he does not make important decisions himself, he is consulted for approval when decisions are going to be made.
+<img src='/images/uk/king_charles.jpg' width=260 aligned=center> <br> King Charles III is head of State of both Canada 🇨🇦 and the UK 🇬🇧. <br> Although he does not make important decisions himself, he is consulted for approval when decisions are going to be made.
 
 ## Political compass of political parties in Canada and UK
 
