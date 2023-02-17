@@ -39,13 +39,13 @@ promoted: false
 ## Prime Ministers of Germany and the United Kingdom
 
 <img src='/images/Germany/OlafScholz.webp' width=270 aligned=center>
-<img src='/images/uk/johnson.jpeg' width=240 aligned=center>
-<br> Olaf Scholz 🇩🇪 and Boris Johnson 🇬🇧. 
+<img src='/images/uk/rishi_sunak.jpg' width=253 aligned=center> 
+<br> Olaf Scholz 🇩🇪 and Rishi Sunak 🇬🇧. 
 
 ## Chief/Head of state of Germany and the United Kingdom
 
 <img src='/images/Germany/Walter_stermeier_PG.png' width=220 aligned=center> 
-<img src='/images/uk/queen.jpeg' width=240 aligned=right>
+<img src='/images/uk/king_charles.jpg' width=260 aligned=center> <br>
 
 The president (currently Walter Stermeier) is the head of state of Germany, while her Majesty the Queen is the head of state of the UK. 
 
