@@ -16,6 +16,8 @@ Stories can be shared.
 
 <img src='/images/trips_journeys/Bariloche-postada.png' width=500 aligned=right>
 
+### Buenos Aires
+
 ## Canada
 
 <img src='/images/CA/flagCAA.svg' width=300 aligned=center>
@@ -23,6 +25,14 @@ Stories can be shared.
 ### Calgary
 
 <img src='/images/trips_journeys/yyc.png' width=500 aligned=right>
+
+## Colombia
+
+<img src='/images/Colombia/colombia_flag.png' width=270 aligned=right>
+
+### Bogotá
+
+<img src='/images/Colombia/el_rosario.jpg' width=500 aligned=right>
 
 ## France
 
