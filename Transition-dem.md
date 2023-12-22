@@ -16,7 +16,7 @@ The point of this acivity is to emulate the elaboration of a memo regarding the 
 
 ##### 7-February-2022
 
-#### Authors: Sofía Barreto Ojeda and Sebastián Cotes Ontibón
+#### Sofía Barreto Ojeda
 
 <br>
 
