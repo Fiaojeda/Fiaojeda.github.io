@@ -8,7 +8,7 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: false
 ---
 
-As part of my career I have had the opportunity to meet important personalities around the world. Here I share the nurturing conversations and highlights of these meetings.
+As part of my career I had numerous opportunities to meet important personalities around the world. Here I share the nurturing conversations and highlights of these meetings.
 
 <br>
 
