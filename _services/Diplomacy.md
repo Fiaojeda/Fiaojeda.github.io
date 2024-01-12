@@ -12,11 +12,11 @@ As part of my career I had numerous opportunities to meet important personalitie
 
 <br>
 
-## Bogotá's councilor Juan Felipe Grillo
+### Bogotá's councilor Juan Felipe Grillo
 
 <br>
 
-## Embassador of Canada in France Stéphane Dion
+### Embassador of Canada in France Stéphane Dion
 
 <br>
 
@@ -25,6 +25,6 @@ As part of my career I had numerous opportunities to meet important personalitie
 <img src='/images/france/embassador_sof.jpeg' width=200 aligned=center>
  <br>
 
-## Embassador of Azerbaijan in France <br>
+### Embassador of Azerbaijan in France <br>
 
 <img src='/images/azerbaijan/az_embassy.png' width=200 aligned=center>
