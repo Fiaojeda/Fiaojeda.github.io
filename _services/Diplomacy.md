@@ -28,4 +28,4 @@ During 2022 I had the opportunity to work at the City Council of Bogota for the 
 
 ### Embassador of Azerbaijan in France <br>
 
-<img src='/images/azerbaijan/az_embassy.png' width=200 aligned=center>
+<img src='/images/Azerbaijan/az_embassy.png' width=200 aligned=center>
