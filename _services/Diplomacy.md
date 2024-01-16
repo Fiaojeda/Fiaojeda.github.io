@@ -14,6 +14,7 @@ As part of my career I had numerous opportunities to meet important personalitie
 
 ### Bogotá's councilor Juan Felipe Grillo
 
+During 2022 I had the opportunity to work at the City Council of Bogota for the political party Cambio Radical.
 <br>
 
 ### Embassador of Canada in France Stéphane Dion
