@@ -33,6 +33,9 @@ Some essays and opinion articles I wrote as part of my academic journey in polit
 
 ## Artículos de opinión
 
+- [El eterno retorno de Venus](/opinion/el-eterno-retorno-de-venus/)
+  Azerbaiyán vuelve a atormentar a los armenios en Nagorno Karabaj
+
 - [La pandemia](/opinion/unos-gritan-otros-duermen/)
   En Colombia unos pueden dormir tranquilos, mientras otros se arrastran para sobrevivir en el día a día.
 
